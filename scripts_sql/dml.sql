@@ -4,7 +4,7 @@ VALUES
   ('ADS01', 'Análise e Desenvolvimento de Sistemas', 50),
   ('ENG01', 'Engenharia', 40),
   ('ADM01', 'Administração', 30),
-  ('DIR01', 'Direiro', 60);
+  ('DIR01', 'Direito', 60);
 
 ----------------------------------------------------------
 -- EXEMPLO DE PESSOA FÍSICA + ALUNO
