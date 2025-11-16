@@ -13,6 +13,7 @@ CREATE TABLE university.pessoa (
   criado_em TIMESTAMP DEFAULT now()
 );
 
+
 -------------------------------------------------------
 -- PESSOA FÍSICA
 -------------------------------------------------------
